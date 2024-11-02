@@ -67,6 +67,6 @@
 
 <br clear="both">
 
-![snake animation](https://github.com/<seu f1ex-crew>/<seu f1ex-crew>/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 ###
