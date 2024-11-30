@@ -57,14 +57,6 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/f1ex">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=f1ex&count=10&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
 <br clear="both">
 
 ![snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
