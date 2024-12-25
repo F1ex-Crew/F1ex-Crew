@@ -1,5 +1,3 @@
-<h2 align="left">Hi 👋! My name is Flex Crew and I'm a discord bot & windows util developer, from somewhere in the universe.</h2>
-
 ###
 
 <div align="center">
@@ -34,31 +32,4 @@
   <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
 </div>
 
-###
 
-<div align="center">
-  <a href="https://youtube.com/channel/@name" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://instagram.com/name" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://discord.gg/3A42Ztde" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="mailto:shubham.omen@outlook.com?subject=&cc=&bcc=" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Mail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
-<img align="right" height="150" src="https://cdn.pfps.gg/pfps/2835-sleeping-cat.gif"  />
-
-###
-
-<br clear="both">
-
-![snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
-
-###
